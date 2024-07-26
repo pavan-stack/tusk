@@ -12,7 +12,3 @@ CSRF
 Thankyou
 
 Done my changes
-
-thankyou
-
-Finalcopy
